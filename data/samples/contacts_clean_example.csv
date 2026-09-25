@@ -1,0 +1,8 @@
+Full Name,First Name,Last Name,Email,Alternate Emails,Phone,Organization,Past Organizations,Meeting Count,First Meeting,Last Meeting,Meeting Dates Attended,Needs Review,Review Notes,Airtable Match
+Jordan Lee,Jordan,Lee,,,(555) 010-0202,Riverside Recovery Center,,2,2023-11-07,2024-03-12,2023-11-07; 2024-03-12,Yes,no email on file,match:name+org
+Alex Rivera,Alex,Rivera,alex.rivera@example.com,arivera@example.org,(555) 010-0101,New Dawn Outreach,Hope Street Church,4,2024-03-12,2025-02-04,2024-03-12; 2024-06-18; 2024-09-10; 2025-02-04,No,,match:email
+Taylor Brooks,Taylor,Brooks,taylor.brooks@example.com,,(555) 010-0303,County Health Dept,,1,2024-06-18,2024-06-18,2024-06-18,No,,new
+Morgan Ellis,Morgan,Ellis,morgan.ellis@example,,,Grace Fellowship,,1,2025-02-04,2025-02-04,2025-02-04,Yes,malformed email; uncertain transcription - verify against scan,new
+Sam,Sam,,,,,,,1,2025-06-01,2025-06-01,2025-06-01,Yes,no email on file; first name only - needs last name; first name only on sheet,new
+Sam,Sam,,,,,,,1,2025-09-09,2025-09-09,2025-09-09,Yes,no email on file; first name only - needs last name; first name only on sheet,new
+Casey Nguyen,Casey,Nguyen,casey.nguyen@example.com,,,,,1,2026-01-07,2026-01-07,2026-01-07,No,,new

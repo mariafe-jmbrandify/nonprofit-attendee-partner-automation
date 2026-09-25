@@ -1,0 +1,13 @@
+name,email,phone,organization,meeting_date,transcription_note
+Alex Rivera,alex.rivera@example.com,555-010-0101,Hope Street Church,2024-03-12,
+Alex Rivera,ALEX.RIVERA@example.com ,,Hope Street Church,2024-06-18,
+Alex Rivera,arivera@example.org,,Hope Street Church,2024-09-10,
+Alex Rivera,alex.rivera@example.com,,New Dawn Outreach,2025-02-04,
+Jordan Lee,,(555) 010-0202,Riverside Recovery Center,2023-11-07,
+Jordan Lee,,,Riverside Recovery Center,2024-03-12,
+Sam,,,,2025-06-01,first name only on sheet
+Sam,,,,2025-09-09,first name only on sheet
+Taylor Brooks,taylor.brooks@example.com,5550100303,County Health Dept,2024-06-18,
+Taylor Brooks,taylor.brooks@example.com,,County Health Dept,2024-06-18,
+Morgan Ellis,morgan.ellis@example,,Grace Fellowship,2025-02-04,uncertain transcription - verify against scan
+Casey Nguyen,casey.nguyen@example.com,,,2026-01-07,
