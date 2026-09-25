@@ -74,7 +74,7 @@ These fields tell the automations what to do. Changing one by hand changes what 
 |---|---|---|---|---|
 | `Type` | Attendees | New Attendee, Returning Attendee, Volunteer, Staff, Speaker, Student, Professional | A (must equal `New Attendee`) | Intake form / staff |
 | `Outreach Status` | Attendees | *(blank)*, Welcome Sent, Follow-up Needed, Follow-up Sent, Needs Personal Contact, Completed, Contacted, Registered | A, B | A → `Welcome Sent`; B → `Follow-up Sent` |
-| `Import Flag` | Attendees, Partners | checkbox | B, C | Set to true on bulk imports so historical records don't trigger emails |
+| `Import Flag` | Attendees, Partners | checkbox | A, B, C | Set to true on bulk imports so historical records don't trigger emails |
 | `Source` | Attendees | Online Signup, Event/Meeting Sign-in, Social Media, Referral… | none | Set once at creation |
 | `Status` | Attendees | Active, … | none | New imported rows default to `Active` |
 | `Approval Status` | Partners | Pending Review, Approved | C (Pending/blank), D (Approved) | Staff |
