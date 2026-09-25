@@ -1,0 +1,41 @@
+# Secrets
+.env
+.env.*
+!.env.example
+*credential*
+*Credential*
+*.pem
+*.key
+
+# Client data: only synthetic samples in data/samples/ are committed
+data/*
+!data/samples/
+out/
+*.xlsx
+*.xls
+*.mp4
+*.mov
+*.docx
+*.pdf
+scans/
+
+# Make blueprints: commit only sanitized copies
+make/blueprints/*.json
+!make/blueprints/*.sanitized.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+~$*
